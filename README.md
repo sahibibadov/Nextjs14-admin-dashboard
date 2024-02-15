@@ -1,8 +1,9 @@
 ## Getting Started
 
 ## **Login :**
-**username**: *admin*
-**password**: *admin*
+
+ - **username**: *admin*
+ - **password**: *admin*
 
 First, run the development server:
 ```bash
