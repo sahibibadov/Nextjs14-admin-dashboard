@@ -9,6 +9,11 @@ const Login = () => {
         </h3>
         <LoginForm />
       </div>
+      <div className="mt-4 space-y-3 border p-2 sm:mx-auto sm:w-full sm:max-w-md">
+        <p className="text-xl font-bold">for login</p>
+        <p>username: admin</p>
+        <p>password: admin</p>
+      </div>
     </div>
   );
 };
